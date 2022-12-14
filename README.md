@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
 The Colorado Board of Elections has asked me to complete the following tasks to complete the election audit of a recent local congressional election. Therefore, I have
